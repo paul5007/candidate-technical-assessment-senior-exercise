@@ -81,4 +81,9 @@ public class IMDbService {
 		return movieList.stream().map(movie -> movie.getTitle()).collect(Collectors.toList());
 	}
 
+	/* DEMO PURPOSES */
+	public int countMovies(Person p) {
+		return p.getMovieTitles().size();
+	}
+
 }
