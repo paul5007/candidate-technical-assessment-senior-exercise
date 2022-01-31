@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gagglemovies-dev-101457-authRole",
+      "UnauthRoleArn": "arn:aws:iam::935952531494:role/amplify-gagglemovies-dev-101457-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::935952531494:role/amplify-gagglemovies-dev-101457-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gagglemovies-dev-101457-deployment",
+      "UnauthRoleName": "amplify-gagglemovies-dev-101457-unauthRole",
+      "StackName": "amplify-gagglemovies-dev-101457",
+      "StackId": "arn:aws:cloudformation:us-east-1:935952531494:stack/amplify-gagglemovies-dev-101457/3922fa60-8116-11ec-becb-12bffa6a4ee9",
+      "AmplifyAppId": "d2weku0wglefz9"
+    },
+    "categories": {
+      "auth": {
+        "gagglemovies8cfe029a": {}
+      }
+    }
+  }
+}
