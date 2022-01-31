@@ -1,10 +1,10 @@
-package com.gaggle.movies;
+package com.gaggle;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MoviesApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
